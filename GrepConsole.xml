@@ -10,7 +10,6 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="id" value="2e2acff4-7e29-4993-96ec-448d4800b937" />
                       <option name="style">
@@ -32,7 +31,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="19c96f32-f705-4a47-b6d0-301d24143c61" />
                       <option name="style">
@@ -53,7 +51,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="9797b1dd-f71e-4b34-a899-e75203676c06" />
                       <option name="style">
@@ -74,7 +71,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="29a6b033-d58c-41ea-8f43-7f9e397f144b" />
                       <option name="style">
@@ -90,13 +86,13 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="id" value="4985a9c6-39f8-4887-a75f-eaaaa74f98cf" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
                             <GrepColor>
+                              <option name="color" value="-8947849" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -104,23 +100,16 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
-                  </list>
-                </option>
-                <option name="name" value="default" />
-              </GrepExpressionGroup>
-              <GrepExpressionGroup>
-                <option name="grepExpressionItems">
-                  <list>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value="@@@@@*" />
+                      <option name="grepExpression" value=".*@@@CTX_URL*." />
                       <option name="id" value="3bd5ac43-7ecf-4092-b8d2-e0f1924052f5" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-16742007" />
+                              <option name="color" value="-12613284" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -135,6 +124,9 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
+                <option name="name" value="default" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
                 <option name="name" value="new" />
               </GrepExpressionGroup>
             </list>
@@ -142,6 +134,7 @@
           <option name="id" value="1511983504478" />
           <option name="maxLengthToMatch" value="300" />
           <option name="name" value="default" />
+          <option name="showStatsInStatusBarByDefault" value="true" />
         </Profile>
       </list>
     </option>
