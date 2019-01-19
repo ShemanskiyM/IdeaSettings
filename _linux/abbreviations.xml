@@ -1,0 +1,15 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ToggleDistractionFreeMode">
+        <abbreviation name="dism" />
+      </action>
+      <action id="ToggleFullScreen">
+        <abbreviation name="fs" />
+      </action>
+      <action id="TogglePresentationMode">
+        <abbreviation name="presm" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
