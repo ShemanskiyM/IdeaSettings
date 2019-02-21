@@ -13,7 +13,6 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
-    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
 </application>
